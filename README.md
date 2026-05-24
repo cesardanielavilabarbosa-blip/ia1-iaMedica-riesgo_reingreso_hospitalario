@@ -83,6 +83,7 @@ ia1-iaMedica-riesgo_reingreso_hospitalario/
 3. Descargar el archivo `.csv`
 4. Renombrarlo a `hospital_readmission.csv` y colocarlo en `data/`
 5. El preprocesamiento completo está en `exploratory_data_analysis.ipynb`
+6. Link: (https://www.kaggle.com/datasets/miadul/hospital-readmission-risk-dataset)
 
 ---
 
