@@ -153,7 +153,7 @@ ia1-iaMedica-riesgo_reingreso_hospitalario/
 
 ## 🎥 Video resumen
 
-▶️ [Ver video del proyecto]([https://drive.google.com/file/d/1DVMITq6iCKRQi-jkk5H4FisTpUrhZehZ/view?usp=sharing](https://drive.google.com/file/d/14mI-euoFellDiEl_HZJCCfzvkYeqid49/view))
+▶️ [Ver video del proyecto]https://drive.google.com/file/d/14mI-euoFellDiEl_HZJCCfzvkYeqid49/view?usp=sharing
 
 ---
 
